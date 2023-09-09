@@ -5,4 +5,4 @@ I have made an interactive dashboard using Power BI.
 
 Below is the screenshot of the dashboard
 
-![image](https://github.com/codervaishali/HR-analytics-dashboard/assets/121167987/1ceae981-e664-4460-908f-684425a1c9a8)
+![image](https://github.com/codervaishali/HR-analytics-dashboard/assets/121167987/9d7bc31e-6b20-47ac-abe7-668ab13b44b1)
